@@ -52,6 +52,9 @@ Generated\ Files/
 TestResult.xml
 nunit-*.xml
 
+# Other Test artifacts
+testsettings.json
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
